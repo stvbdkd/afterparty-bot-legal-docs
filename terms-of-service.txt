@@ -1,1 +1,40 @@
+Terms of Service for Afterparty Bots
 
+Last updated: November 5, 2023
+
+By using any bot provided by Afterparty Bots ("the Bot"), you agree to these terms and conditions. Please read them carefully.
+
+1. Use of the Bot
+
+- You must use the Bot in compliance with Discord's Terms of Service and Community Guidelines.
+
+2. User Conduct
+
+- You agree not to misuse or abuse the Bot. This includes, but is not limited to, spamming, harassment, or using the Bot for illegal or malicious purposes.
+
+3. Data Usage
+
+- The Bot may collect and store user data as outlined in the Bot's Privacy Policy. By using the Bot, you consent to this data collection and usage.
+
+4. Changes to the Bot
+
+- The Bot's features, functionality, and availability may change over time without notice.
+
+5. Termination
+
+- We reserve the right to terminate or suspend your access to the Bot at our discretion, with or without cause, and without notice.
+
+6. Disclaimer of Warranty
+
+- The Bot is provided "as is" without warranties of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+7. Limitation of Liability
+
+- In no event shall we be liable for any damages (including, without limitation, damages for loss of data or profit) arising out of the use or inability to use the Bot.
+
+8. Changes to Terms
+- We may update these Terms of Service at any time. You are responsible for regularly reviewing these terms.
+
+9. Contact Us
+
+- If you have any questions or concerns regarding these Terms of Service, please contact us at afterparty18staff@gmail.com.
