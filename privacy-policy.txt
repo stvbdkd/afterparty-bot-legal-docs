@@ -1,1 +1,37 @@
+Privacy Policy for Afterparty Bots
 
+Last updated: November 5, 2023
+
+1. Information We Collect
+
+- **User Data:** Afterparty Bots may collect and store information provided by Discord users who interact with the bot, including usernames, user IDs, and server-specific data such as channel IDs.
+
+2. How We Use Your Information
+
+- **Bot Functionality:** We use the collected information to provide Discord bot services, including [mention specific bot functionalities], and facilitating interactions within Discord servers.
+
+3. Data Security
+
+- Afterparty Bots takes reasonable measures to protect the data we collect and store, including encryption and access controls.
+
+4. Data Sharing
+
+- Afterparty Bots does not sell or share user data with third parties, except as required by law or with explicit user consent.
+
+5. Data Retention
+
+- Afterparty Bots retains user data only for as long as necessary to provide our services or as required by law.
+
+6. User Rights
+
+- Discord users have the right to request access to, correction of, or deletion of their personal data stored by Afterparty Bots. To make such requests, users should contact us through afterparty18staff@gmail.com.
+
+7. Changes to this Privacy Policy
+
+- Afterparty Bots may update this privacy policy as our services evolve. Users will be notified of any significant changes.
+
+8. Contact Us
+
+- If you have any questions or concerns regarding this privacy policy or our data practices, please contact Afterparty Bots at afterparty18staff@gmail.com.
+
+This updated privacy policy reflects the provided information, and it's important to keep it up to date to ensure transparency and compliance with data protection regulations.
